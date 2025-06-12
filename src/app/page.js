@@ -39,7 +39,7 @@ const auth = getAuth();
 const googleProvider = new GoogleAuthProvider();
 
 // Admin emails list (replace with your admin emails)
-const ADMIN_EMAILS = ["admin@example.com"];
+const ADMIN_EMAILS = ["admin@example.com","admin2@example.com","ilamkaradarsh@gmail.com"];
 
 // Context for Auth
 const AuthContext = createContext();
